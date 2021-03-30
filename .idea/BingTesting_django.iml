@@ -6,6 +6,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="pyunittest" />
     <orderEntry type="module" module-name="flask_apps" />
+    <orderEntry type="module" module-name="Deep-OTest" />
+    <orderEntry type="module" module-name="Deep-NTest" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />

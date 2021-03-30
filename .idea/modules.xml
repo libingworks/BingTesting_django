@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BingTesting_django.iml" filepath="$PROJECT_DIR$/.idea/BingTesting_django.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Deep-NTest/.idea/Deep-NTest.iml" filepath="$USER_HOME$/Downloads/Deep-NTest/.idea/Deep-NTest.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Deep-OTest/.idea/Deep-OTest.iml" filepath="$USER_HOME$/Downloads/Deep-OTest/.idea/Deep-OTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../wwww/flask_apps/.idea/flask_apps.iml" filepath="$PROJECT_DIR$/../../wwww/flask_apps/.idea/flask_apps.iml" />
       <module fileurl="file://$PROJECT_DIR$/../pytest/.idea/pyunittest.iml" filepath="$PROJECT_DIR$/../pytest/.idea/pyunittest.iml" />
     </modules>
